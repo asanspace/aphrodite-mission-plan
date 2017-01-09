@@ -2,13 +2,13 @@
 
 ## Build Tasks
 
-[x] Mounting base plate
-[x] Go Pro mount
-[x] Attach Parachute
-[ ] Attach Balloon (done at launch site)
-[ ] Secure SPOT Trace GPS
-[ ] LoRa Transmitter - Waiting on shipment of new radios
-[ ] LoRa Receiver (ground station)
+1. [x] Mounting base plate
+1. [x] Go Pro mount
+1. [x] Attach Parachute
+1. [ ] Attach Balloon (done at launch site)
+1. [ ] Secure SPOT Trace GPS
+1. [ ] LoRa Transmitter - Waiting on shipment of new radios
+1. [ ] LoRa Receiver (ground station)
 
 ## Software Tasks
 
